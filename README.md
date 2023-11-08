@@ -20,6 +20,11 @@ Caso contrário, a função retorna uma resposta de não autorizado (código de 
 
 **É importante salientar que a URL de acesso à função Lambda deve incluir os parâmetros de consulta username e password para autenticar o usuário.**
 
+Credenciais para autenticação (já configuradas na URL):
+
+USUARIO_ESPERADO = 'caca_rato'
+SENHA_ESPERADA = 'remo_cr7'
+
 **URL de acessso:** https://5rbnkz89vf.execute-api.us-east-1.amazonaws.com/teste_post/exercicio_ponderada_vini/?username=caca_rato&password=remo_cr7 
 
 Sendo assim, a partir da definição do código, é esperado que haja um retorno de mensagem com base no que foi pré-definido. Neste caso, no método GET, esperando que seja retornado o corpo da mensagem:
