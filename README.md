@@ -57,3 +57,12 @@ Para complementação e validação do código, foi feita a utilização de um t
 A validação foi feita com sucesso!
 
 ![image_720](https://github.com/furlan2803/lambda-flask-api/assets/99264567/35a3c18d-b70d-433a-872c-97c12cfa0758)
+
+
+## Fontes e Recursos da AWS para Configuração
+
+*Configurar as opções da função do Lambda - AWS Lambda. (n.d.).* https://docs.aws.amazon.com/pt_br/lambda/latest/dg/configuration-function-common.html 
+
+*Configurar métodos da API REST no API Gateway - Amazon API Gateway. (n.d.).* https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/how-to-method-settings.html
+
+*Conceitos básicos do API Gateway - Amazon API Gateway. (n.d.).* https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/getting-started.html
